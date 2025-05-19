@@ -218,7 +218,8 @@ npm run deploy
 - BY HERE ALL DONE YOU CAN ENJOY TO POST YOUR MASTER-WORK.
 
 
-
+# 3. Contact
+- any questions or suggestions please contact us: viktorviktor100m@gmail.com
   
 
 
