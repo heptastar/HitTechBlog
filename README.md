@@ -3,9 +3,10 @@
 https://htb-blogd1pages-250515a1122-js-nu-cfpages.pages.dev/
 - admin account: admin@qq.com
 - password: 122
-- ![demo gallery](./demoimg.png)
-- ![demo gallery](./demoimg2.png)
-- ![demo gallery](./demoimg3.png)
+
+ ![demo gallery](./demoimg.png)
+ ![demo gallery](./demoimg2.png)
+ ![demo gallery](./demoimg3.png)
 ## 1. Introduction
 Welcome to HitTechBlog Project!
 
