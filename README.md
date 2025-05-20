@@ -220,7 +220,7 @@ npm run deploy
 
 
 # 3. Contact
-- any questions or suggestions please contact us: [Heptastar Intelligent Tech](https://www.hit2023.com)
+- HitTechBlog is continuously dev and maintained by [Heptastar Intelligent Tech](https://www.hit2023.com). Any questions or suggestions please contact us: [Heptastar Intelligent Tech](https://www.hit2023.com)
   
 
 
