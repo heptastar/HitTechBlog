@@ -1,6 +1,6 @@
 # HitTechBlog - A ZERO COST INDEPENDENT blog cms system based on Cloudflare D1 and Cloudflare Pages
 ## 0. Demo
-https://htb-blogd1imgpages-250520a1143-js-nu-cfpages.pages.dev/
+https://htb-blogd1pages-250515a1122-js-nu-cfpages.pages.dev/
 - admin account: admin@qq.com
 - password: 122
 
