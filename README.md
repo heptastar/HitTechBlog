@@ -1,7 +1,7 @@
 
 # ATTENTION!!! This is HitTechBlog V1 version, ONLY FOR PURE TEXT USER WITH 5G FREE SPACE (enough for your data volume from born to retire), if you want a note-taking and blog system to support both text and image, then please check our new version HitTechBlogV2 https://github.com/heptastar/HitTechBlogV2
 
-# HitTechBlog - A ZERO COST INDEPENDENT blog cms system based on Cloudflare D1 and Cloudflare Pages
+# HitTechBlog - A ZERO COST INDEPENDENT cloud based note-taking and blog cms system based on Cloudflare D1 and Cloudflare Pages
 ## 0. Demo
 https://htb-blogd1pages-250515a1122-js-nu-cfpages.pages.dev/
 - admin account: admin@qq.com
