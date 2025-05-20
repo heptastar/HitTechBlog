@@ -220,7 +220,7 @@ npm run deploy
 
 
 # 3. Contact
-- any questions or suggestions please contact us: viktorviktor100m@gmail.com
+- any questions or suggestions please contact us: [Heptastar Intelligent Tech](https://www.hit2023.com)
   
 
 
